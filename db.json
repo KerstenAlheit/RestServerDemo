@@ -7,34 +7,5 @@
             "SawStatus": 0,
             "CutCounter": 0
         }
-    ],
-    "GetOffset": [{
-            "Id": 15,
-            "Status": 0,
-            "Error": [0],
-            "Offset": 100
-        }
-    ],
-    "SetTargetPosition": [{
-            "Id": 15,
-            "Status": 0,
-            "Error": [0]
-        }
-    ],
-    "SetOffset": [{
-            "Id": 15,
-            "Status": 0,
-            "Error": [0],
-            "TargetPosition": 50000,
-            "MeasuredLength": 51000,
-            "Offset": 1000
-        }
-    ],
-    "Stop": [{
-            "Id": 15,
-            "Status": 0,
-            "Error": [0],
-            "CurrentPosition": 37500
-        }
     ]
 }
