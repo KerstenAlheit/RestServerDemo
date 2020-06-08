@@ -6,5 +6,11 @@
         "CurrentPosition": 51000,
         "SawStatus": 0,
         "CutCounter": 0
+    },
+    "GetOffset": {
+        "Id": 15,
+        "Status": 0,
+        "Error": [0],
+        "Offset": 100
     }
 }
