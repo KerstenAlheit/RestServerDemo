@@ -20,7 +20,7 @@
             "Status": 0,
             "Error": [0]
         }
-    ]
+    ],
     "SetOffset": [{
             "Id": 15,
             "Status": 0,
@@ -29,7 +29,7 @@
             "MeasuredLength": 51000,
             "Offset": 1000
         }
-    ]
+    ],
     "Stop": [{
             "Id": 15,
             "Status": 0,
