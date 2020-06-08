@@ -5,6 +5,14 @@
       "title": "hello"
     }
   ],
+  "GetStatus": {
+        "Id": 15,
+        "Status": 0,
+        "Error": [0, 1],
+        "CurrentPosition": 51000,
+        "SawStatus": 0,
+        "CutCounter": 0
+    },
   "profile": {
     "name": "typicode"
   }
