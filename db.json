@@ -2,7 +2,7 @@
   "GetStatus": {
         "Id": 1,
         "Status": 0,
-        "Error": [0, 1],
+        "Error": [666, 1],
         "CurrentPosition": 51000,
         "SawStatus": 0,
         "CutCounter": 0
