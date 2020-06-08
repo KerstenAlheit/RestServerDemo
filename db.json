@@ -8,18 +8,18 @@
         "CutCounter": 0
     },
     "GetOffset": {
-        "Id": 15,
+        "Id": 1,
         "Status": 0,
         "Error": [0],
         "Offset": 114
     },
     "SetTargetPosition": {
-        "Id": 15,
+        "Id": 1,
         "Status": 0,
         "Error": [0]
     },
     "SetOffset": {
-        "Id": 15,
+        "Id": 1,
         "Status": 0,
         "Error": [0],
         "TargetPosition": 50000,
@@ -27,7 +27,7 @@
         "Offset": 1000
     },
     "Stop": {
-        "Id": 15,
+        "Id": 1,
         "Status": 0,
         "Error": [0],
         "CurrentPosition": 37500
