@@ -1,10 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "GetStatus": {
         "Id": 15,
         "Status": 0,
@@ -12,8 +6,5 @@
         "CurrentPosition": 51000,
         "SawStatus": 0,
         "CutCounter": 0
-    },
-  "profile": {
-    "name": "typicode"
-  }
+    }
 }
