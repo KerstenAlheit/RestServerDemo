@@ -15,7 +15,7 @@
     },
     "SetTargetPosition": {
         "Id": 1,
-        "Status": 0,
+        "Status": 10,
         "Error": [0]
     },
     "SetOffset": {
