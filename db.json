@@ -1,7 +1,7 @@
 {
   "GetStatus": {
         "Id": 1,
-        "Status": 0,
+        "Status": 2,
         "Error": [666, 1],
         "CurrentPosition": 51000,
         "SawStatus": 0,
